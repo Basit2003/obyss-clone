@@ -16,11 +16,11 @@ This project is a front-end clone of the Obys Agency website. It is designed to 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/obys-agency-clone.git
+    git clone https://github.com/Basit2003/obyss-clone.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd obys-agency-clone
+    cd obyss-clone
     ```
 3. Open `index.html` in your preferred web browser to view the project.
 
